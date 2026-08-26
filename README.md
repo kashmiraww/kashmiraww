@@ -36,15 +36,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashmiraww&show_icons=true&theme=tokyonight" height="150" alt="Kashmira's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashmiraww&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
