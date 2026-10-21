@@ -43,7 +43,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kashmira-waghulkar-415671369/" target="_blank">
