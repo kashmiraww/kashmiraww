@@ -1,8 +1,11 @@
-# Hi, I'm Kashmira Waghulkar 👋
+# Hi, I'm Kashmira Waghulkar 
 
 🎓 2nd Year Computer Science & Engineering Student
+
 📊 Aspiring Data Scientist | Machine Learning • Big Data • Data Analytics
+
 💻 Strong problem-solving foundation in C++, now building end-to-end data science projects
+
 🎯 Open to internships and research opportunities
 
 ---
@@ -40,14 +43,6 @@
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🎯 Goals
-
-- Build and ship end-to-end data science projects, from raw data to deployed insight
-- Go deep on machine learning and big data
-- Land a data science internship or research role
 
 ---
 
