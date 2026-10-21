@@ -1,26 +1,23 @@
 # Hi, I'm Kashmira Waghulkar 
 
-🎓 2nd Year Computer Science & Engineering Student
-
-📊 Aspiring Data Scientist | Machine Learning • Big Data • Data Analytics
-
-💻 Strong problem-solving foundation in C++, now building end-to-end data science projects
-
-🎯 Open to internships and research opportunities
+- 2nd Year Computer Science & Engineering Student
+- Aspiring Data Scientist | Machine Learning • Big Data • Data Analytics
+- Strong problem-solving foundation in C++, now building end-to-end data science projects
+- Open to internships and research opportunities
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-- 🧠 **Algorithms & Problem Solving:** Practicing data structures and algorithms in C++ (STL) on Codeforces, CSES, and LeetCode.
-- 📈 **Data Analysis & BI:** Exploratory data analysis, data cleaning, and reporting with Python (Pandas, NumPy), advanced SQL, and Power BI.
-- 🤖 **Machine Learning:** Learning and building supervised and unsupervised models, feature engineering, and model evaluation with Scikit-learn.
-- 🗄️ **Big Data & Data Systems:** Exploring distributed processing and streaming with Apache Spark and Kafka.
-- ✨ **Applied AI / LLMs:** Experimenting with RAG pipelines, vector databases, LangChain, and LLM APIs.
+- **Algorithms & Problem Solving:** Practicing data structures and algorithms in C++ (STL) on Codeforces, CSES, and LeetCode.
+- **Data Analysis & BI:** Exploratory data analysis, data cleaning, and reporting with Python (Pandas, NumPy), advanced SQL, and Power BI.
+- **Machine Learning:** Learning and building supervised and unsupervised models, feature engineering, and model evaluation with Scikit-learn.
+- **Big Data & Data Systems:** Exploring distributed processing and streaming with Apache Spark and Kafka.
+- **Applied AI / LLMs:** Experimenting with RAG pipelines, vector databases, LangChain, and LLM APIs.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
